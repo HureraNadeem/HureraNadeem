@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hurera Nadeem</h1>
-<h3 align="center">A passionate MERN stack engineer who writes clean and scalable code</h3>
+<h3 align="center">A passionate MERN stack engineer who loves to write clean and scalable code</h3>
 
 - 🔭 I’m currently working on **my portfolio website**
 

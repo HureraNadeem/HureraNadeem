@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hurera Nadeem</h1>
-<h3 align="center">A passionate MERN stack engineer who loves to write clean and scalable code</h3>
+<h3 align="center">A fervent MERN stack whiz who adores crafting spotless and scalable code</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- I’m currently working on **a few peronal projects.**
 
-- 🌱 I’m currently learning **DevOps**
+- Lately, I am learning **DevOps**
 
-- 💬 Ask me about **React, Node, DevOps & Community Building**
+- Ask me about **React, Node, DevOps & Community Building**
 
-- 📫 How to reach me **muhammadhureran8@gmail.com**
+- You can know more about me at [hurera-dev.netlify.app](hurera-dev.netlify.app)
 
-- ⚡ Fun fact **I convert energy drinks into code ;)**
+- How to reach me **muhammadhureran8@gmail.com**
+
+- Fun fact **I convert energy drinks into code ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - Ask me about **React, Node, DevOps & Community Building**
 
-- You can know more about me at [hurera-dev.netlify.app](hurera-dev.netlify.app)
+- You can know more about me at (hurera-dev.netlify.app](https://hurera-dev.netlify.app)
 
 - How to reach me **muhammadhureran8@gmail.com**
 

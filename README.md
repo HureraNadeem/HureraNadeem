@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hurera Nadeem</h1>
 <h3 align="center">A fervent MERN stack whiz who adores crafting spotless and scalable code</h3>
 
-- I’m currently working on **a few peronal projects.**
+- I’m currently working on **a few personal projects.**
 
 - Lately, I am learning **DevOps**
 

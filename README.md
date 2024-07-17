@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hurera Nadeem</h1>
-<h3 align="center">A MERN stack engineer writing scalable code that derives revenues</h3>
+<h3 align="center">A MERN/MEVN stack developer writing code that can scale and generate revenue</h3>
 
 - I’m currently working in **stealth mode 😉**
 
-- Lately, I am learning **DevOps**
+- Lately, I am learning **Cloud and Devops**
 
 - Ask me about **React, Node, DevOps & Community Building**
 

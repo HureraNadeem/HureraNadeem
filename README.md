@@ -5,7 +5,7 @@
 
 - Lately, I am learning **Cloud and Devops**
 
-- Ask me about **React, Node, DevOps & Community Building**
+- Ask me about **React.js, Node.js, DevOps and Cloud**
 
 - You can know more about me at [hurera-dev.netlify.app](https://hurera-dev.netlify.app)
 
